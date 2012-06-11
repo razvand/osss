@@ -29,4 +29,6 @@ int num;
      extra=get_sum(num);
    printf("sum (1..%d) is %d\n",num,extra);
  }
+
+  return 0;
 }
