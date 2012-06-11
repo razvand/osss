@@ -17,7 +17,7 @@ int get_sum(int n)
 return sum;
 }
 
-main(){
+int main(){
   int extra; char *len="prime";
 int num;
      int is_prime,i;
