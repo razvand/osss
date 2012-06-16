@@ -1,4 +1,4 @@
-ossc
+osss
 ====
 
 Open Source Summer School
